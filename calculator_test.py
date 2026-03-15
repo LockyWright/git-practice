@@ -1,5 +1,9 @@
-from calculator import adder
+from calculator import add
+print(add(5, 9)) #should print 14
+print(add(-3, -4)) #should print -7
+print(add(10, -4)) #should print 6
 
-print(adder(5, 9)) #should print 14
-print(adder(-3, -4)) #should print -7
-print(adder(10, -4)) #should print 6
+from calculator import subtract
+print(subtract(4, 2)) #should print 2
+print(subtract(-6, -2)) #should print 8
+print(subtract(12,6)) #should print 6
