@@ -12,3 +12,7 @@ from calculator import multiply
 print(multiply(5,2)) #should print 10
 print(multiply(-3,4)) #should print -20
 print(multiply(12,10)) #should print 120
+
+from calculator import divide
+print(divide(6,3)) #should print 2
+print(divide(20,4)) #should print 5
