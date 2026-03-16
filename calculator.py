@@ -12,4 +12,4 @@ def multiply(n1, n2):
 
 def divide(n1, n2):
     """Divides two numbers"""
-    return (n2/n1)
+    return n1/n2
