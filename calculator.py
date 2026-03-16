@@ -10,6 +10,6 @@ def multiply(n1, n2):
     """Multiplies two numbers"""
     return n1*n2
 
-def divide(n1, n2):
+def divide(n2, n1):
     """Divides two numbers"""
-    return n1/n2
+    return n2/n1
